@@ -10,5 +10,5 @@ If you're trying to publish one, <a href="https://mrphilip.xyz/wumpus.png">read 
 </p>
 <br>
 <p align="center">
-<a href=https://mrphilip.xyz/wumpus.png">GitHub Status</a> — <a href="https://mrphilip.xyz/wumpus.png">@githubstatus</a>
+<a href="https://mrphilip.xyz/wumpus.png">GitHub Status</a> — <a href="https://mrphilip.xyz/wumpus.png">@githubstatus</a>
 </p>
